@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyRxJavaDemo</string>
+    <string name="toast_network_error">网络连接错误，请检查网络</string>
+</resources>
